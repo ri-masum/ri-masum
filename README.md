@@ -1,5 +1,5 @@
 <h1 align="center">This is Masum</h1>
-<img align="center" alt="Dinosor" width="1000" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" >
+<img align="center" alt="dinosaur" width="100" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" >
 <h3 align="center">I'm Just a Guy who is Trying to figure out things</h3>
 
 - ⚡ Fun fact **I love to Solve rubiksCube**
