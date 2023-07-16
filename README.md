@@ -2,7 +2,7 @@
 <img align="center" alt="dinosaur" width="1000" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" >
 <h3 align="center">I'm Just a Guy who is Trying to figure out things</h3>
 
-- ⚡ Fun fact **I love to Solve rubiksCube**
+ ⚡ Fun fact **I love to Solve rubiksCube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
