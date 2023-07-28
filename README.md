@@ -4,8 +4,8 @@
 
  ⚡ Fun fact **I love to Solve rubiksCube**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/rahidul__islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahidul__islam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masum ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/r.i. masum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r.i. masum" height="30" width="40" /></a>
